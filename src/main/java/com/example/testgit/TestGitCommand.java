@@ -6,5 +6,6 @@ package main.java.com.example.testgit;
 public class TestGitCommand {
     /**
      * master-登录功能
+     * master-注销功能
      */
 }
