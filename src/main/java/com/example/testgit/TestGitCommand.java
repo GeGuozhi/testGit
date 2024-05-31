@@ -1,4 +1,4 @@
-package main.java.com.example.testgit;
+package com.example.testgit;
 
 /**
  * @author ggz on 2023/10/9
@@ -13,5 +13,7 @@ public class TestGitCommand {
      * dev1-测试dev1_1
      *
      * 测试git
+     *
+     * 测试 git 20240529
      */
 }
