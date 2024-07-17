@@ -7,6 +7,9 @@ import java.util.HashMap;
  */
 public class TestGitCommand {
     public static void main(String[] args) {
+        /**
+         * user2
+         */
         HashMap<String,String> map = new HashMap<String, String>();
         map.put("a","a");
         map.put("a","b");
