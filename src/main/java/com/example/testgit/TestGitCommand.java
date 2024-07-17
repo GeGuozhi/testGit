@@ -9,6 +9,8 @@ public class TestGitCommand {
     public static void main(String[] args) {
         /**
          * user2
+         *
+         * user2 2024-07-17 08:48:00
          */
         HashMap<String,String> map = new HashMap<String, String>();
         map.put("a","a");
