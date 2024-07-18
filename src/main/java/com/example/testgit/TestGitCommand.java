@@ -25,6 +25,8 @@ public class TestGitCommand {
          * user1:git stash A
          *
          * 研究github和gitlab同时使用
+         *
+         * 1
          */
         HashMap<String,String> map = new HashMap<String, String>();
         map.put("a","a");
