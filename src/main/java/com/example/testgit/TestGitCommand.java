@@ -23,6 +23,8 @@ public class TestGitCommand {
          * user1 2024-07-17 14:33 测试pull前代码已被修改的情况,自己的代码
          *
          * user1:git stash A
+         *
+         * 研究github和gitlab同时使用
          */
         HashMap<String,String> map = new HashMap<String, String>();
         map.put("a","a");
