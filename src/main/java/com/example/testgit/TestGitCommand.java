@@ -21,6 +21,8 @@ public class TestGitCommand {
          * user2 2024-07-17 14:32 测试pull前代码已被修改的情况,remote仓库的代码
          *
          * user1 2024-07-17 14:33 测试pull前代码已被修改的情况,自己的代码
+         *
+         * user1:git stash A
          */
         HashMap<String,String> map = new HashMap<String, String>();
         map.put("a","a");
