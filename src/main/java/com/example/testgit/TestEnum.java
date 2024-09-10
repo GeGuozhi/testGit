@@ -6,7 +6,8 @@ package com.example.testgit;
 public enum TestEnum {
     A("记账"),
     B("确认"),
-    C("冲销");
+    C("冲销"),
+    D("冲销1");
 
     String desc;
 
